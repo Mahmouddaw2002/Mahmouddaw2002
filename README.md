@@ -1,8 +1,7 @@
 ### Hi there 👋, Hi 👋, I'm Mahmoud Riyad Dawoud
 #### Programmer Front-End-Developer
-![Programmer Front-End-Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Programmer Front-End-Developer](https://pbs.twimg.com/profile_banners/1582843166683807745/1680823458/1500x500)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Html / Css / Bootstrap / Tailwind / JavaScript / TypeScript / Reactjs / Nextjs
 
